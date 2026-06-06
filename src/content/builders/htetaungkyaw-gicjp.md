@@ -10,7 +10,7 @@ linkedin: your-linkedin-username
 website: https://your-site.com
 ---
 
-Hi! I'm learning to vibe-code with AI. My goal is to build and ship something
+Hi! I'm Htet Aung Kyaw, Learning to vibe-code with AI. My goal is to build and ship something
 real by Demo Day. Excited to be part of the Tour.
 
 <!--
